@@ -27,7 +27,7 @@ const events = [
     title: "Advanced Techniques",
     type: "Workshop",
     date: "June 8, 2024",
-    location: "PadelHub Training Center",
+    location: "Padel Training Center",
     image: "/workshop1.png",
     price: "$40",
   },
