@@ -1,3 +1,4 @@
+"use client";
 import { Quote } from "lucide-react";
 
 const testimonials = [

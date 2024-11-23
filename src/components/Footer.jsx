@@ -1,4 +1,5 @@
-// import { Racquet } from "lucide-react";
+
+"use client";
 import Link from "next/link";
 import { Icon } from 'lucide-react';
 import { tennisRacket } from '@lucide/lab';
